@@ -1,0 +1,1705 @@
+Day_of_the_week,Temperature,Humidity,Weather_description,Sales_trend
+1,32,35,clear,high
+3,28,40,haze,moderate
+5,38,50,thunderstorm,low
+6,30,30,clouds,high
+0,35,55,thunderstorm,low
+2,27,35,clear,high
+4,40,60,haze,low
+0,32,40,clear sky,high
+1,28,50,few clouds,high
+2,35,35,scattered clouds,high
+3,27,45,broken clouds,high
+4,30,55,overcast clouds,moderate
+5,38,30,mist,moderate
+6,40,25,smoke,moderate
+0,26,60,haze,low
+1,33,40,dust,low
+2,36,50,fog,low
+3,29,70,sand,low
+4,34,45,thunderstorm with light rain,low
+5,31,55,thunderstorm with rain,low
+6,37,30,thunderstorm with heavy rain,low
+0,39,40,light thunderstorm,low
+1,28,35,thunderstorm,low
+2,32,60,heavy thunderstorm,low
+3,30,45,ragged thunderstorm,low
+4,31,50,thunderstorm with light drizzle,low
+5,36,40,thunderstorm with drizzle,low
+6,33,55,thunderstorm with heavy drizzle,low
+0,34,50,light intensity drizzle,low
+1,35,30,drizzle,low
+2,27,65,heavy intensity drizzle,low
+3,38,35,light intensity drizzle rain,low
+4,40,60,drizzle rain,low
+5,29,70,heavy intensity drizzle rain,low
+6,30,55,shower rain and drizzle,low
+0,32,45,heavy shower rain and drizzle,low
+1,28,60,shower drizzle,low
+2,36,35,light rain,moderate
+3,33,40,moderate rain,moderate
+4,29,50,heavy intensity rain,moderate
+5,34,60,very heavy rain,moderate
+6,37,45,extreme rain,low
+0,35,55,freezing rain,low
+1,38,50,light intensity shower rain,moderate
+2,30,40,shower rain,moderate
+3,28,65,heavy intensity shower rain,low
+4,31,55,ragged shower rain,low
+5,33,50,clear sky,high
+6,36,35,few clouds,high
+0,39,40,scattered clouds,high
+1,29,30,broken clouds,high
+2,37,25,overcast clouds,moderate
+3,30,55,mist,moderate
+4,26,70,smoke,moderate
+5,35,45,haze,low
+6,32,60,dust,low
+0,28,55,fog,low
+1,31,50,sand,low
+2,34,35,thunderstorm with light rain,low
+3,40,40,thunderstorm with rain,low
+4,27,60,thunderstorm with heavy rain,low
+5,38,30,light thunderstorm,low
+6,36,45,thunderstorm,low
+0,29,65,heavy thunderstorm,low
+1,33,35,ragged thunderstorm,low
+2,30,50,thunderstorm with light drizzle,low
+3,35,40,thunderstorm with drizzle,low
+4,28,55,thunderstorm with heavy drizzle,low
+5,37,60,light intensity drizzle,low
+6,31,45,drizzle,low
+0,32,70,heavy intensity drizzle,low
+1,38,40,light intensity drizzle rain,low
+2,34,50,drizzle rain,low
+3,36,30,heavy intensity drizzle rain,low
+4,39,45,shower rain and drizzle,low
+5,27,55,heavy shower rain and drizzle,low
+6,30,60,shower drizzle,low
+0,33,35,light rain,moderate
+1,35,40,moderate rain,moderate
+2,26,50,heavy intensity rain,moderate
+3,29,60,very heavy rain,moderate
+4,31,55,extreme rain,low
+5,38,45,freezing rain,low
+6,32,30,light intensity shower rain,moderate
+0,27,55,shower rain,moderate
+1,34,60,heavy intensity shower rain,low
+2,36,45,ragged shower rain,low
+3,30,50,clear sky,high
+4,39,35,few clouds,high
+5,32,40,scattered clouds,high
+6,28,50,broken clouds,high
+0,35,30,overcast clouds,moderate
+1,40,25,mist,moderate
+2,29,65,smoke,moderate
+3,33,35,haze,low
+4,27,60,dust,low
+5,36,55,fog,low
+6,31,70,sand,low
+0,34,40,thunderstorm with light rain,low
+1,30,55,thunderstorm with rain,low
+2,37,30,thunderstorm with heavy rain,low
+3,32,45,light thunderstorm,low
+4,29,50,thunderstorm,low
+5,28,65,heavy thunderstorm,low
+6,31,35,ragged thunderstorm,low
+0,35,50,thunderstorm with light drizzle,low
+1,26,60,thunderstorm with drizzle,low
+2,38,35,thunderstorm with heavy drizzle,low
+3,34,40,light intensity drizzle,low
+4,27,55,drizzle,low
+5,30,60,heavy intensity drizzle,low
+6,33,45,light intensity drizzle rain,low
+0,39,35,drizzle rain,low
+1,33,55,heavy intensity drizzle rain,low
+2,31,45,shower rain and drizzle,low
+3,36,50,heavy shower rain and drizzle,low
+4,30,40,shower drizzle,low
+5,32,55,light rain,moderate
+6,35,60,moderate rain,moderate
+0,28,30,heavy intensity rain,moderate
+1,29,45,very heavy rain,moderate
+2,34,55,extreme rain,low
+3,37,50,freezing rain,low
+4,32,35,light intensity shower rain,moderate
+5,39,40,shower rain,moderate
+6,30,65,heavy intensity shower rain,low
+0,27,55,ragged shower rain,low
+0,32,40,clear sky,moderate
+1,28,50,few clouds,moderate
+2,35,35,scattered clouds,moderate
+3,27,45,broken clouds,moderate
+4,30,55,overcast clouds,low
+5,38,30,mist,low
+6,40,25,smoke,low
+0,26,60,haze,low
+1,33,40,dust,low
+2,36,50,fog,low
+3,29,70,sand,low
+4,34,45,thunderstorm with light rain,low
+5,31,55,thunderstorm with rain,low
+6,37,30,thunderstorm with heavy rain,low
+0,39,40,light thunderstorm,low
+1,28,35,thunderstorm,low
+2,32,60,heavy thunderstorm,low
+3,30,45,ragged thunderstorm,low
+4,31,50,thunderstorm with light drizzle,low
+5,36,40,thunderstorm with drizzle,low
+6,33,55,thunderstorm with heavy drizzle,low
+0,34,50,light intensity drizzle,low
+1,35,30,drizzle,low
+2,27,65,heavy intensity drizzle,low
+3,38,35,light intensity drizzle rain,low
+4,40,60,drizzle rain,low
+5,29,70,heavy intensity drizzle rain,low
+6,30,55,shower rain and drizzle,low
+0,32,45,heavy shower rain and drizzle,low
+1,28,60,shower drizzle,low
+2,36,35,light rain,moderate
+3,33,40,moderate rain,moderate
+4,29,50,heavy intensity rain,moderate
+5,34,60,very heavy rain,moderate
+6,37,45,extreme rain,low
+0,35,55,freezing rain,low
+1,38,50,light intensity shower rain,moderate
+2,30,40,shower rain,moderate
+3,28,65,heavy intensity shower rain,low
+4,31,55,ragged shower rain,low
+5,33,50,clear sky,moderate
+6,36,35,few clouds,moderate
+0,39,40,scattered clouds,moderate
+1,29,30,broken clouds,moderate
+2,37,25,overcast clouds,moderate
+3,30,55,mist,moderate
+4,26,70,smoke,low
+5,35,45,haze,low
+6,32,60,dust,low
+0,28,55,fog,low
+1,31,50,sand,low
+2,34,35,thunderstorm with light rain,low
+3,40,40,thunderstorm with rain,low
+4,27,60,thunderstorm with heavy rain,low
+5,38,30,light thunderstorm,low
+6,36,45,thunderstorm,low
+0,29,65,heavy thunderstorm,low
+1,33,35,ragged thunderstorm,low
+2,30,50,thunderstorm with light drizzle,low
+3,35,40,thunderstorm with drizzle,low
+4,28,55,thunderstorm with heavy drizzle,low
+5,37,60,light intensity drizzle,low
+6,31,45,drizzle,low
+0,32,70,heavy intensity drizzle,low
+1,38,40,light intensity drizzle rain,low
+2,34,50,drizzle rain,low
+3,36,30,heavy intensity drizzle rain,low
+4,39,45,shower rain and drizzle,low
+5,27,55,heavy shower rain and drizzle,low
+6,30,60,shower drizzle,low
+0,33,35,light rain,moderate
+1,35,40,moderate rain,moderate
+2,26,50,heavy intensity rain,moderate
+3,29,60,very heavy rain,moderate
+4,31,55,extreme rain,low
+5,38,45,freezing rain,low
+6,32,30,light intensity shower rain,moderate
+0,27,55,shower rain,moderate
+1,34,60,heavy intensity shower rain,low
+2,36,45,ragged shower rain,low
+3,30,50,clear sky,moderate
+4,39,35,few clouds,moderate
+5,32,40,scattered clouds,moderate
+6,28,50,broken clouds,moderate
+0,35,30,overcast clouds,moderate
+1,40,25,mist,moderate
+2,29,65,smoke,moderate
+3,33,35,haze,low
+4,27,60,dust,low
+5,36,55,fog,low
+6,31,70,sand,low
+0,34,40,thunderstorm with light rain,low
+1,30,55,thunderstorm with rain,low
+2,37,30,thunderstorm with heavy rain,low
+3,32,45,light thunderstorm,low
+4,29,50,thunderstorm,low
+5,28,65,heavy thunderstorm,low
+6,31,35,ragged thunderstorm,low
+0,35,50,thunderstorm with light drizzle,low
+1,26,60,thunderstorm with drizzle,low
+2,38,35,thunderstorm with heavy drizzle,low
+3,34,40,light intensity drizzle,low
+4,27,55,drizzle,low
+5,30,60,heavy intensity drizzle,low
+6,33,45,light intensity drizzle rain,low
+0,39,35,drizzle rain,low
+1,33,55,heavy intensity drizzle rain,low
+2,31,45,shower rain and drizzle,low
+3,36,50,heavy shower rain and drizzle,low
+4,30,40,shower drizzle,low
+5,32,55,light rain,moderate
+6,35,60,moderate rain,moderate
+0,40,60,haze,low
+1,38,65,haze,low
+2,39,70,haze,low
+3,41,75,haze,low
+4,42,80,haze,low
+5,35,50,haze,moderate
+6,36,55,haze,moderate
+0,37,60,haze,moderate
+1,38,65,haze,moderate
+2,39,70,haze,moderate
+3,40,75,haze,moderate
+4,41,80,haze,moderate
+5,35,50,haze,moderate
+6,36,55,haze,moderate
+0,37,60,haze,moderate
+1,38,65,haze,moderate
+2,39,70,haze,moderate
+3,40,75,haze,moderate
+4,41,80,haze,moderate
+5,35,50,haze,moderate
+6,36,55,haze,moderate
+0,37,60,haze,moderate
+1,38,65,haze,moderate
+2,39,70,haze,moderate
+3,40,75,haze,moderate
+4,41,80,haze,moderate
+5,35,50,haze,moderate
+6,36,55,haze,moderate
+0,37,60,haze,moderate
+1,38,65,haze,moderate
+2,39,70,haze,moderate
+3,40,75,haze,moderate
+4,41,80,haze,moderate
+5,35,50,haze,moderate
+6,36,55,haze,moderate
+0,37,60,haze,moderate
+1,38,65,haze,moderate
+2,39,70,haze,moderate
+3,40,75,haze,moderate
+4,41,80,haze,moderate
+5,35,50,haze,moderate
+6,36,55,haze,moderate
+0,37,60,haze,moderate
+1,38,65,haze,moderate
+2,39,70,haze,moderate
+3,40,75,haze,moderate
+4,41,80,haze,moderate
+5,35,50,haze,moderate
+6,36,55,haze,moderate
+0,37,60,haze,moderate
+1,38,65,haze,moderate
+2,39,70,haze,moderate
+3,40,75,haze,moderate
+4,41,80,haze,moderate
+5,35,50,haze,moderate
+6,36,55,haze,moderate
+0,37,60,haze,moderate
+1,38,65,haze,moderate
+2,39,70,haze,moderate
+3,40,75,haze,moderate
+4,41,80,haze,moderate
+5,35,50,haze,moderate
+6,36,55,haze,moderate
+0,37,60,haze,moderate
+1,38,65,haze,moderate
+2,39,70,haze,moderate
+3,40,75,haze,moderate
+4,41,80,haze,moderate
+5,35,50,haze,moderate
+6,36,55,haze,moderate
+0,37,60,haze,moderate
+1,38,65,haze,moderate
+2,39,70,haze,moderate
+3,40,75,haze,moderate
+4,41,80,haze,moderate
+5,35,50,haze,moderate
+6,36,55,haze,moderate
+0,37,60,haze,moderate
+1,38,65,haze,moderate
+2,39,70,haze,moderate
+3,40,75,haze,moderate
+4,41,80,haze,moderate
+5,35,50,haze,moderate
+6,36,55,haze,moderate
+0,37,60,haze,moderate
+1,38,65,haze,moderate
+2,39,70,haze,moderate
+3,40,75,haze,moderate
+4,41,80,haze,moderate
+5,35,50,haze,moderate
+6,36,55,haze,moderate
+0,37,60,haze,moderate
+1,38,65,haze,moderate
+2,39,70,haze,moderate
+3,40,75,haze,moderate
+4,41,80,haze,moderate
+5,35,50,haze,moderate
+6,36,55,haze,moderate
+0,37,60,haze,moderate
+1,38,65,haze,moderate
+2,39,70,haze,moderate
+3,40,75,haze,moderate
+4,41,80,haze,moderate
+5,35,50,haze,moderate
+6,36,55,haze,moderate
+0,37,60,haze,moderate
+1,38,65,haze,moderate
+2,39,70,haze,moderate
+3,40,75,haze,moderate
+4,41,80,haze,moderate
+5,35,50,haze,moderate
+6,36,55,haze,moderate
+0,37,60,haze,moderate
+1,38,65,haze,moderate
+2,39,70,haze,moderate
+3,40,75,haze,moderate
+4,41,80,haze,moderate
+5,35,50,haze,moderate
+6,36,55,haze,moderate
+0,37,60,haze,moderate
+1,38,65,haze,moderate
+2,39,70,haze,moderate
+3,40,75,haze,moderate
+4,41,80,haze,moderate
+5,35,50,haze,moderate
+6,36,55,haze,moderate
+0,37,60,haze,moderate
+1,38,65,haze,moderate
+2,39,70,haze,moderate
+3,40,75,haze,moderate
+4,41,80,haze,moderate
+5,35,50,haze,moderate
+6,36,55,haze,moderate
+0,37,60,haze,moderate
+1,38,65,haze,moderate
+2,39,70,haze,moderate
+3,40,75,haze,moderate
+0,30,35,clear sky,moderate
+1,32,40,few clouds,moderate
+2,34,45,scattered clouds,moderate
+3,35,50,broken clouds,moderate
+4,36,55,overcast clouds,moderate
+5,38,60,mist,moderate
+6,40,65,smoke,moderate
+0,28,30,haze,low
+1,30,35,dust,low
+2,32,40,fog,low
+3,34,45,sand,low
+4,36,50,thunderstorm with light rain,low
+5,38,55,thunderstorm with rain,low
+6,40,60,thunderstorm with heavy rain,low
+0,30,35,light thunderstorm,low
+1,32,40,thunderstorm,low
+2,34,45,heavy thunderstorm,low
+3,35,50,ragged thunderstorm,low
+4,36,55,thunderstorm with light drizzle,low
+5,38,60,thunderstorm with drizzle,low
+6,40,65,thunderstorm with heavy drizzle,low
+0,28,30,light intensity drizzle,low
+1,30,35,drizzle,low
+2,32,40,heavy intensity drizzle,low
+3,34,45,light intensity drizzle rain,low
+4,36,50,drizzle rain,low
+5,38,55,heavy intensity drizzle rain,low
+6,40,60,shower rain and drizzle,low
+0,30,35,heavy shower rain and drizzle,low
+1,32,40,shower drizzle,low
+2,34,45,light rain,low
+3,35,50,moderate rain,low
+4,36,55,heavy intensity rain,low
+5,38,60,very heavy rain,low
+6,40,65,extreme rain,low
+0,28,30,freezing rain,low
+1,30,35,light intensity shower rain,low
+2,32,40,shower rain,low
+3,34,45,heavy intensity shower rain,low
+4,36,50,ragged shower rain,low
+5,38,55,clear sky,moderate
+6,40,60,few clouds,moderate
+0,30,35,scattered clouds,moderate
+1,32,40,broken clouds,moderate
+2,34,45,overcast clouds,moderate
+3,35,50,mist,moderate
+4,36,55,smoke,moderate
+5,38,60,haze,moderate
+6,40,65,dust,moderate
+0,28,30,fog,moderate
+1,30,35,sand,moderate
+2,32,40,thunderstorm with light rain,moderate
+3,34,45,thunderstorm with rain,moderate
+4,36,50,thunderstorm with heavy rain,moderate
+5,38,55,light thunderstorm,moderate
+6,40,60,thunderstorm,moderate
+0,30,35,heavy thunderstorm,moderate
+1,32,40,ragged thunderstorm,moderate
+2,34,45,thunderstorm with light drizzle,moderate
+3,35,50,thunderstorm with drizzle,moderate
+4,36,55,thunderstorm with heavy drizzle,moderate
+5,38,60,light intensity drizzle,moderate
+6,40,65,drizzle,moderate
+0,28,30,heavy intensity drizzle,moderate
+1,30,35,light intensity drizzle rain,moderate
+2,32,40,drizzle rain,moderate
+3,34,45,heavy intensity drizzle rain,moderate
+4,36,50,shower rain and drizzle,moderate
+5,38,55,heavy shower rain and drizzle,moderate
+6,40,60,shower drizzle,moderate
+0,30,35,light rain,moderate
+1,32,40,moderate rain,moderate
+2,34,45,heavy intensity rain,moderate
+3,35,50,very heavy rain,moderate
+4,36,55,extreme rain,moderate
+5,38,60,freezing rain,moderate
+6,40,65,light intensity shower rain,moderate
+0,28,30,shower rain,moderate
+1,30,35,heavy intensity shower rain,moderate
+2,32,40,ragged shower rain,moderate
+3,34,45,clear sky,low
+4,36,50,few clouds,low
+5,38,55,scattered clouds,low
+6,40,60,broken clouds,low
+0,30,35,overcast clouds,low
+1,32,40,mist,low
+2,34,45,smoke,low
+3,35,50,haze,low
+4,36,55,dust,low
+5,38,60,fog,low
+6,40,65,sand,low
+0,28,30,thunderstorm with light rain,low
+1,30,35,thunderstorm with rain,low
+2,32,40,thunderstorm with heavy rain,low
+3,34,45,light thunderstorm,low
+4,36,50,thunderstorm,low
+5,38,55,heavy thunderstorm,low
+6,40,60,ragged thunderstorm,low
+0,30,35,thunderstorm with light drizzle,low
+1,32,40,thunderstorm with drizzle,low
+2,34,45,thunderstorm with heavy drizzle,low
+3,35,50,light intensity drizzle,low
+4,36,55,drizzle,low
+5,38,60,heavy intensity drizzle,low
+6,40,65,light intensity drizzle rain,low
+0,28,30,drizzle rain,low
+1,30,35,heavy intensity drizzle rain,low
+2,32,40,shower rain and drizzle,low
+3,34,45,heavy shower rain and drizzle,low
+4,36,50,shower drizzle,low
+5,38,55,light rain,low
+6,40,60,moderate rain,low
+0,30,35,heavy intensity rain,low
+1,32,40,very heavy rain,low
+2,34,45,extreme rain,low
+3,35,50,freezing rain,low
+4,36,55,light intensity shower rain,low
+5,38,60,shower rain,low
+6,40,65,heavy intensity shower rain,low
+0,28,30,ragged shower rain,low
+5,30,35,clear sky,high
+6,32,40,few clouds,high
+5,34,45,scattered clouds,high
+6,35,50,haze,high
+5,36,55,drizzle rain,high
+6,38,60,light rain,high
+5,40,65,moderate rain,high
+5,30,35,clear sky,high
+6,32,40,few clouds,high
+5,34,45,scattered clouds,high
+6,35,50,haze,high
+5,36,55,drizzle rain,high
+6,38,60,light rain,high
+5,40,65,moderate rain,high
+5,30,35,clear sky,high
+6,32,40,few clouds,high
+5,34,45,scattered clouds,high
+6,35,50,haze,high
+5,36,55,drizzle rain,high
+6,38,60,light rain,high
+5,40,65,moderate rain,high
+5,30,35,clear sky,high
+6,32,40,few clouds,high
+5,34,45,scattered clouds,high
+6,35,50,haze,high
+5,36,55,drizzle rain,high
+6,38,60,light rain,high
+5,40,65,moderate rain,high
+5,30,35,clear sky,high
+6,32,40,few clouds,high
+5,34,45,scattered clouds,high
+6,35,50,haze,high
+5,36,55,drizzle rain,high
+6,38,60,light rain,high
+5,40,65,moderate rain,high
+5,30,35,clear sky,high
+6,32,40,few clouds,high
+5,34,45,scattered clouds,high
+6,35,50,haze,high
+5,36,55,drizzle rain,high
+6,38,60,light rain,high
+5,40,65,moderate rain,high
+5,30,35,clear sky,high
+6,32,40,few clouds,high
+5,34,45,scattered clouds,high
+6,35,50,haze,high
+5,36,55,drizzle rain,high
+6,38,60,light rain,high
+5,40,65,moderate rain,high
+5,30,35,clear sky,high
+6,32,40,few clouds,high
+5,34,45,scattered clouds,high
+6,35,50,haze,high
+5,36,55,drizzle rain,high
+6,38,60,light rain,high
+5,40,65,moderate rain,high
+5,30,35,clear sky,high
+6,32,40,few clouds,high
+5,34,45,scattered clouds,high
+6,35,50,haze,high
+5,36,55,drizzle rain,high
+6,38,60,light rain,high
+5,40,65,moderate rain,high
+5,30,35,clear sky,high
+6,32,40,few clouds,high
+5,34,45,scattered clouds,high
+6,35,50,haze,high
+5,36,55,drizzle rain,high
+6,38,60,light rain,high
+5,40,65,moderate rain,high
+5,30,35,clear sky,high
+6,32,40,few clouds,high
+5,34,45,scattered clouds,high
+6,35,50,haze,high
+5,36,55,drizzle rain,high
+6,38,60,light rain,high
+5,40,65,moderate rain,high
+5,30,35,clear sky,high
+6,32,40,few clouds,high
+5,34,45,scattered clouds,high
+6,35,50,haze,high
+5,36,55,drizzle rain,high
+6,38,60,light rain,high
+5,40,65,moderate rain,high
+5,30,35,clear sky,high
+6,32,40,few clouds,high
+5,34,45,scattered clouds,high
+6,35,50,haze,high
+5,36,55,drizzle rain,high
+6,38,60,light rain,high
+5,40,65,moderate rain,high
+5,30,35,clear sky,high
+6,32,40,few clouds,high
+5,34,45,scattered clouds,high
+6,35,50,haze,high
+5,36,55,drizzle rain,high
+6,38,60,light rain,high
+5,40,65,moderate rain,high
+5,30,35,clear sky,high
+6,32,40,few clouds,high
+5,34,45,scattered clouds,high
+6,35,50,haze,high
+5,36,55,drizzle rain,high
+6,38,60,light rain,high
+5,40,65,moderate rain,high
+5,30,35,clear sky,high
+6,32,40,few clouds,high
+5,34,45,scattered clouds,high
+6,35,50,haze,high
+5,36,55,drizzle rain,high
+6,38,60,light rain,high
+5,40,65,moderate rain,high
+5,30,35,clear sky,high
+6,32,40,few clouds,high
+5,34,45,scattered clouds,high
+6,35,50,haze,high
+5,36,55,drizzle rain,high
+6,38,60,light rain,high
+5,40,65,moderate rain,high
+5,30,35,clear sky,high
+6,32,40,few clouds,high
+5,34,45,scattered clouds,high
+6,35,50,haze,high
+5,36,55,drizzle rain,high
+6,38,60,light rain,high
+5,40,65,moderate rain,high
+5,30,35,clear sky,high
+6,32,40,few clouds,high
+5,34,45,scattered clouds,high
+6,35,50,haze,high
+5,36,55,drizzle rain,high
+6,38,60,light rain,high
+5,40,65,moderate rain,high
+6,35,55,thunderstorm,low
+5,34,60,very heavy rain,low
+6,38,65,heavy intensity drizzle,low
+5,40,70,extreme rain,low
+5,30,35,clear sky,high
+6,32,40,few clouds,high
+5,34,45,scattered clouds,high
+6,35,50,haze,high
+5,36,55,drizzle rain,high
+6,38,60,light rain,high
+5,40,65,moderate rain,high
+6,35,55,thunderstorm,low
+5,34,60,very heavy rain,low
+6,38,65,heavy intensity drizzle,low
+5,40,70,extreme rain,low
+5,30,35,clear sky,high
+6,32,40,few clouds,high
+5,34,45,scattered clouds,high
+6,35,50,haze,high
+5,36,55,drizzle rain,high
+6,38,60,light rain,high
+5,40,65,moderate rain,high
+6,35,55,thunderstorm,low
+5,34,60,very heavy rain,low
+6,38,65,heavy intensity drizzle,low
+5,40,70,extreme rain,low
+5,30,35,clear sky,high
+6,32,40,few clouds,high
+5,34,45,scattered clouds,high
+6,35,50,haze,high
+5,36,55,drizzle rain,high
+6,38,60,light rain,high
+5,40,65,moderate rain,high
+6,35,55,thunderstorm,low
+5,34,60,very heavy rain,low
+6,38,65,heavy intensity drizzle,low
+5,40,70,extreme rain,low
+5,30,35,clear sky,high
+6,32,40,few clouds,high
+5,34,45,scattered clouds,high
+6,35,50,haze,high
+5,36,55,drizzle rain,high
+6,38,60,light rain,high
+5,40,65,moderate rain,high
+6,35,55,thunderstorm,low
+5,34,60,very heavy rain,low
+6,38,65,heavy intensity drizzle,low
+5,40,70,extreme rain,low
+5,30,35,clear sky,high
+6,32,40,few clouds,high
+5,34,45,scattered clouds,high
+6,35,50,haze,high
+5,36,55,drizzle rain,high
+6,38,60,light rain,high
+5,40,65,moderate rain,high
+6,35,55,thunderstorm,low
+5,34,60,very heavy rain,low
+6,38,65,heavy intensity drizzle,low
+5,40,70,extreme rain,low
+5,30,35,clear sky,high
+6,32,40,few clouds,high
+5,34,45,scattered clouds,high
+6,35,50,haze,high
+5,36,55,drizzle rain,high
+6,38,60,light rain,high
+5,40,65,moderate rain,high
+6,35,55,thunderstorm,low
+5,34,60,very heavy rain,low
+6,38,65,heavy intensity drizzle,low
+5,40,70,extreme rain,low
+5,30,35,clear sky,high
+6,32,40,few clouds,high
+5,34,45,scattered clouds,high
+6,35,50,haze,high
+5,36,55,drizzle rain,high
+6,38,60,light rain,high
+5,40,65,moderate rain,high
+6,35,55,thunderstorm,low
+5,34,60,very heavy rain,low
+6,38,65,heavy intensity drizzle,low
+5,40,70,extreme rain,low
+5,30,35,clear sky,high
+6,32,40,few clouds,high
+5,34,45,scattered clouds,high
+6,35,50,haze,high
+5,36,55,drizzle rain,high
+6,38,60,light rain,high
+5,40,65,moderate rain,high
+6,35,55,thunderstorm,low
+5,34,60,very heavy rain,low
+6,38,65,heavy intensity drizzle,low
+5,40,70,extreme rain,low
+5,30,35,clear sky,high
+6,32,40,few clouds,high
+5,34,45,scattered clouds,high
+6,35,50,haze,high
+5,36,55,drizzle rain,high
+6,38,60,light rain,high
+5,40,65,moderate rain,high
+6,35,55,thunderstorm,low
+5,34,60,very heavy rain,low
+6,38,65,heavy intensity drizzle,low
+5,40,70,extreme rain,low
+5,30,35,clear sky,high
+6,32,40,few clouds,high
+5,34,45,scattered clouds,high
+6,35,50,haze,high
+5,36,55,drizzle rain,high
+6,38,60,light rain,high
+5,40,65,moderate rain,high
+6,35,55,thunderstorm,low
+5,34,60,very heavy rain,low
+6,38,65,heavy intensity drizzle,low
+5,40,70,extreme rain,low
+5,30,35,clear sky,high
+6,32,40,few clouds,high
+5,34,45,scattered clouds,high
+6,35,50,haze,high
+5,36,55,drizzle rain,high
+6,38,60,light rain,high
+5,40,65,moderate rain,high
+6,35,55,thunderstorm,low
+5,34,60,very heavy rain,low
+6,38,65,heavy intensity drizzle,low
+5,40,70,extreme rain,low
+0,27,40,clear sky,low
+1,28,45,few clouds,low
+2,26,35,scattered clouds,low
+3,27,30,haze,low
+4,29,40,drizzle rain,low
+5,30,45,light rain,high
+6,31,50,moderate rain,high
+0,27,40,clear sky,low
+1,28,45,few clouds,low
+2,26,35,scattered clouds,low
+3,27,30,haze,low
+4,29,40,drizzle rain,low
+5,30,45,light rain,high
+6,31,50,moderate rain,high
+0,27,40,clear sky,low
+1,28,45,few clouds,low
+2,26,35,scattered clouds,low
+3,27,30,haze,low
+4,29,40,drizzle rain,low
+5,30,45,light rain,high
+6,31,50,moderate rain,high
+0,27,40,clear sky,low
+1,28,45,few clouds,low
+2,26,35,scattered clouds,low
+3,27,30,haze,low
+4,29,40,drizzle rain,low
+5,30,45,light rain,high
+6,31,50,moderate rain,high
+0,27,40,clear sky,low
+1,28,45,few clouds,low
+2,26,35,scattered clouds,low
+3,27,30,haze,low
+4,29,40,drizzle rain,low
+5,30,45,light rain,high
+6,31,50,moderate rain,high
+0,27,40,clear sky,low
+1,28,45,few clouds,low
+2,26,35,scattered clouds,low
+3,27,30,haze,low
+4,29,40,drizzle rain,low
+5,30,45,light rain,high
+6,31,50,moderate rain,high
+0,27,40,clear sky,low
+1,28,45,few clouds,low
+2,26,35,scattered clouds,low
+3,27,30,haze,low
+4,29,40,drizzle rain,low
+5,30,45,light rain,high
+6,31,50,moderate rain,high
+0,27,40,clear sky,low
+1,28,45,few clouds,low
+2,26,35,scattered clouds,low
+3,27,30,haze,low
+4,29,40,drizzle rain,low
+5,30,45,light rain,high
+6,31,50,moderate rain,high
+0,27,40,clear sky,low
+1,28,45,few clouds,low
+2,26,35,scattered clouds,low
+3,27,30,haze,low
+4,29,40,drizzle rain,low
+5,30,45,light rain,high
+6,31,50,moderate rain,high
+0,27,40,clear sky,low
+1,28,45,few clouds,low
+2,26,35,scattered clouds,low
+3,27,30,haze,low
+4,29,40,drizzle rain,low
+5,30,45,light rain,high
+6,31,50,moderate rain,high
+0,27,40,clear sky,low
+1,28,45,few clouds,low
+2,26,35,scattered clouds,low
+3,27,30,haze,low
+4,29,40,drizzle rain,low
+5,30,45,light rain,high
+6,31,50,moderate rain,high
+0,27,40,clear sky,low
+1,28,45,few clouds,low
+2,26,35,scattered clouds,low
+3,27,30,haze,low
+4,29,40,drizzle rain,low
+5,30,45,light rain,high
+6,31,50,moderate rain,high
+0,27,40,clear sky,low
+1,28,45,few clouds,low
+2,26,35,scattered clouds,low
+3,27,30,haze,low
+4,29,40,drizzle rain,low
+5,30,45,light rain,high
+6,31,50,moderate rain,high
+0,27,40,clear sky,low
+1,28,45,few clouds,low
+2,26,35,scattered clouds,low
+3,27,30,haze,low
+4,29,40,drizzle rain,low
+5,30,45,light rain,high
+6,31,50,moderate rain,high
+0,27,40,clear sky,low
+1,28,45,few clouds,low
+2,26,35,scattered clouds,low
+3,27,30,haze,low
+4,29,40,drizzle rain,low
+5,30,45,light rain,high
+6,31,50,moderate rain,high
+0,27,40,clear sky,low
+1,28,45,few clouds,low
+2,26,35,scattered clouds,low
+3,27,30,haze,low
+4,29,40,drizzle rain,low
+5,30,45,light rain,high
+6,31,50,moderate rain,high
+0,27,40,clear sky,low
+1,28,45,few clouds,low
+2,26,35,scattered clouds,low
+3,27,30,haze,low
+4,29,40,drizzle rain,low
+5,30,45,light rain,high
+6,31,50,moderate rain,high
+0,27,40,clear sky,low
+1,28,45,few clouds,low
+2,26,35,scattered clouds,low
+3,27,30,haze,low
+4,29,40,drizzle rain,low
+5,30,45,light rain,high
+6,31,50,moderate rain,high
+0,27,40,clear sky,low
+1,28,45,few clouds,low
+2,26,35,scattered clouds,low
+3,27,30,haze,low
+4,29,40,drizzle rain,low
+5,30,45,light rain,high
+6,31,50,moderate rain,high
+0,27,40,clear sky,low
+1,28,45,few clouds,low
+2,26,35,scattered clouds,low
+3,27,30,haze,low
+4,29,40,drizzle rain,low
+5,30,45,light rain,high
+6,31,50,moderate rain,high
+0,27,40,clear sky,low
+1,28,45,few clouds,low
+2,26,35,scattered clouds,low
+3,27,30,haze,low
+4,29,40,drizzle rain,low
+5,30,45,light rain,high
+6,31,50,moderate rain,high
+0,27,40,clear sky,low
+1,28,45,few clouds,low
+2,26,35,scattered clouds,low
+3,27,30,haze,low
+4,29,40,drizzle rain,low
+5,30,45,light rain,high
+6,31,50,moderate rain,high
+0,27,40,clear sky,low
+1,28,45,few clouds,low
+2,26,35,scattered clouds,low
+3,27,30,haze,low
+4,29,40,drizzle rain,low
+5,30,45,light rain,high
+6,31,50,moderate rain,high
+0,27,40,clear sky,low
+1,28,45,few clouds,low
+2,26,35,scattered clouds,low
+3,27,30,haze,low
+4,29,40,drizzle rain,low
+5,30,45,light rain,high
+6,31,50,moderate rain,high
+0,26,40,scattered clouds,low
+1,27,45,light rain,low
+2,28,35,clear sky,moderate
+3,29,30,few clouds,moderate
+4,30,40,light intensity drizzle,moderate
+0,26,40,scattered clouds,low
+1,27,45,light rain,low
+2,28,35,clear sky,moderate
+3,29,30,few clouds,moderate
+4,30,40,light intensity drizzle,moderate
+0,26,40,scattered clouds,low
+1,27,45,light rain,low
+2,28,35,clear sky,moderate
+3,29,30,few clouds,moderate
+4,30,40,light intensity drizzle,moderate
+0,26,40,scattered clouds,low
+1,27,45,light rain,low
+2,28,35,clear sky,moderate
+3,29,30,few clouds,moderate
+4,30,40,light intensity drizzle,moderate
+0,26,40,scattered clouds,low
+1,27,45,light rain,low
+2,28,35,clear sky,moderate
+3,29,30,few clouds,moderate
+4,30,40,light intensity drizzle,moderate
+0,26,40,scattered clouds,low
+1,27,45,light rain,low
+2,28,35,clear sky,moderate
+3,29,30,few clouds,moderate
+4,30,40,light intensity drizzle,moderate
+0,26,40,scattered clouds,low
+1,27,45,light rain,low
+2,28,35,clear sky,moderate
+3,29,30,few clouds,moderate
+4,30,40,light intensity drizzle,moderate
+0,26,40,scattered clouds,low
+1,27,45,light rain,low
+2,28,35,clear sky,moderate
+3,29,30,few clouds,moderate
+4,30,40,light intensity drizzle,moderate
+0,26,40,scattered clouds,low
+1,27,45,light rain,low
+2,28,35,clear sky,moderate
+3,29,30,few clouds,moderate
+4,30,40,light intensity drizzle,moderate
+0,26,40,scattered clouds,low
+1,27,45,light rain,low
+2,28,35,clear sky,moderate
+3,29,30,few clouds,moderate
+4,30,40,light intensity drizzle,moderate
+0,26,40,scattered clouds,low
+1,27,45,light rain,low
+2,28,35,clear sky,moderate
+3,29,30,few clouds,moderate
+4,30,40,light intensity drizzle,moderate
+0,26,40,scattered clouds,low
+1,27,45,light rain,low
+2,28,35,clear sky,moderate
+3,29,30,few clouds,moderate
+4,30,40,light intensity drizzle,moderate
+0,26,40,scattered clouds,low
+1,27,45,light rain,low
+2,28,35,clear sky,moderate
+3,29,30,few clouds,moderate
+4,30,40,light intensity drizzle,moderate
+0,26,40,scattered clouds,low
+1,27,45,light rain,low
+2,28,35,clear sky,moderate
+3,29,30,few clouds,moderate
+4,30,40,light intensity drizzle,moderate
+0,26,40,scattered clouds,low
+1,27,45,light rain,low
+2,28,35,clear sky,moderate
+3,29,30,few clouds,moderate
+4,30,40,light intensity drizzle,moderate
+0,26,40,scattered clouds,low
+1,27,45,light rain,low
+2,28,35,clear sky,moderate
+3,29,30,few clouds,moderate
+4,30,40,light intensity drizzle,moderate
+0,26,40,scattered clouds,low
+1,27,45,light rain,low
+2,28,35,clear sky,moderate
+3,29,30,few clouds,moderate
+4,30,40,light intensity drizzle,moderate
+0,26,40,scattered clouds,low
+1,27,45,light rain,low
+2,28,35,clear sky,moderate
+3,29,30,few clouds,moderate
+4,30,40,light intensity drizzle,moderate
+0,26,40,scattered clouds,low
+1,27,45,light rain,low
+2,28,35,clear sky,moderate
+3,29,30,few clouds,moderate
+4,30,40,light intensity drizzle,moderate
+0,26,40,scattered clouds,low
+1,27,45,light rain,low
+2,28,35,clear sky,moderate
+3,29,30,few clouds,moderate
+4,30,40,light intensity drizzle,moderate
+0,26,40,scattered clouds,low
+1,27,45,light rain,low
+2,28,35,clear sky,moderate
+3,29,30,few clouds,moderate
+4,30,40,light intensity drizzle,moderate
+0,38,50,thunderstorm,low
+1,39,55,heavy intensity rain,low
+2,40,60,extreme rain,low
+3,41,65,heavy thunderstorm,low
+4,42,70,thunderstorm with heavy rain,low
+0,38,50,thunderstorm,low
+1,39,55,heavy intensity rain,low
+2,40,60,extreme rain,low
+3,41,65,heavy thunderstorm,low
+4,42,70,thunderstorm with heavy rain,low
+0,38,50,thunderstorm,low
+1,39,55,heavy intensity rain,low
+2,40,60,extreme rain,low
+3,41,65,heavy thunderstorm,low
+4,42,70,thunderstorm with heavy rain,low
+0,38,50,thunderstorm,low
+1,39,55,heavy intensity rain,low
+2,40,60,extreme rain,low
+3,41,65,heavy thunderstorm,low
+4,42,70,thunderstorm with heavy rain,low
+0,38,50,thunderstorm,low
+1,39,55,heavy intensity rain,low
+2,40,60,extreme rain,low
+3,41,65,heavy thunderstorm,low
+4,42,70,thunderstorm with heavy rain,low
+0,38,50,thunderstorm,low
+1,39,55,heavy intensity rain,low
+2,40,60,extreme rain,low
+3,41,65,heavy thunderstorm,low
+4,42,70,thunderstorm with heavy rain,low
+0,38,50,thunderstorm,low
+1,39,55,heavy intensity rain,low
+2,40,60,extreme rain,low
+3,41,65,heavy thunderstorm,low
+4,42,70,thunderstorm with heavy rain,low
+0,38,50,thunderstorm,low
+1,39,55,heavy intensity rain,low
+2,40,60,extreme rain,low
+3,41,65,heavy thunderstorm,low
+4,42,70,thunderstorm with heavy rain,low
+0,38,50,thunderstorm,low
+1,39,55,heavy intensity rain,low
+2,40,60,extreme rain,low
+3,41,65,heavy thunderstorm,low
+4,42,70,thunderstorm with heavy rain,low
+0,38,50,thunderstorm,low
+1,39,55,heavy intensity rain,low
+2,40,60,extreme rain,low
+3,41,65,heavy thunderstorm,low
+4,42,70,thunderstorm with heavy rain,low
+0,38,50,thunderstorm,low
+1,39,55,heavy intensity rain,low
+2,40,60,extreme rain,low
+3,41,65,heavy thunderstorm,low
+4,42,70,thunderstorm with heavy rain,low
+0,38,50,thunderstorm,low
+1,39,55,heavy intensity rain,low
+2,40,60,extreme rain,low
+3,41,65,heavy thunderstorm,low
+4,42,70,thunderstorm with heavy rain,low
+0,38,50,thunderstorm,low
+1,39,55,heavy intensity rain,low
+2,40,60,extreme rain,low
+3,41,65,heavy thunderstorm,low
+4,42,70,thunderstorm with heavy rain,low
+0,38,50,thunderstorm,low
+1,39,55,heavy intensity rain,low
+2,40,60,extreme rain,low
+3,41,65,heavy thunderstorm,low
+4,42,70,thunderstorm with heavy rain,low
+0,38,50,thunderstorm,low
+1,39,55,heavy intensity rain,low
+2,40,60,extreme rain,low
+3,41,65,heavy thunderstorm,low
+4,42,70,thunderstorm with heavy rain,low
+0,38,50,thunderstorm,low
+1,39,55,heavy intensity rain,low
+2,40,60,extreme rain,low
+3,41,65,heavy thunderstorm,low
+4,42,70,thunderstorm with heavy rain,low
+0,38,50,thunderstorm,low
+1,39,55,heavy intensity rain,low
+2,40,60,extreme rain,low
+3,41,65,heavy thunderstorm,low
+4,42,70,thunderstorm with heavy rain,low
+0,38,50,thunderstorm,low
+1,39,55,heavy intensity rain,low
+2,40,60,extreme rain,low
+3,41,65,heavy thunderstorm,low
+4,42,70,thunderstorm with heavy rain,low
+0,38,50,thunderstorm,low
+1,39,55,heavy intensity rain,low
+2,40,60,extreme rain,low
+3,41,65,heavy thunderstorm,low
+4,42,70,thunderstorm with heavy rain,low
+0,38,50,thunderstorm,low
+1,39,55,heavy intensity rain,low
+2,40,60,extreme rain,low
+3,41,65,heavy thunderstorm,low
+4,42,70,thunderstorm with heavy rain,low
+0,38,50,thunderstorm,low
+1,39,55,heavy intensity rain,low
+2,40,60,extreme rain,low
+3,41,65,heavy thunderstorm,low
+4,42,70,thunderstorm with heavy rain,low
+0,38,50,thunderstorm,low
+1,39,55,heavy intensity rain,low
+2,40,60,extreme rain,low
+3,41,65,heavy thunderstorm,low
+4,42,70,thunderstorm with heavy rain,low
+0,38,50,thunderstorm,low
+1,39,55,heavy intensity rain,low
+2,40,60,extreme rain,low
+3,41,65,heavy thunderstorm,low
+4,42,70,thunderstorm with heavy rain,low
+0,38,50,thunderstorm,low
+1,39,55,heavy intensity rain,low
+2,40,60,extreme rain,low
+3,41,65,heavy thunderstorm,low
+0,30,30,clear sky,moderate
+1,31,35,few clouds,moderate
+2,32,38,scattered clouds,moderate
+3,33,40,light rain,moderate
+4,34,42,light intensity drizzle,moderate
+0,30,30,clear sky,moderate
+1,31,35,few clouds,moderate
+2,32,38,scattered clouds,moderate
+3,33,40,light rain,moderate
+4,34,42,light intensity drizzle,moderate
+0,30,30,clear sky,moderate
+1,31,35,few clouds,moderate
+2,32,38,scattered clouds,moderate
+3,33,40,light rain,moderate
+4,34,42,light intensity drizzle,moderate
+0,30,30,clear sky,moderate
+1,31,35,few clouds,moderate
+2,32,38,scattered clouds,moderate
+3,33,40,light rain,moderate
+4,34,42,light intensity drizzle,moderate
+0,30,30,clear sky,moderate
+1,31,35,few clouds,moderate
+2,32,38,scattered clouds,moderate
+3,33,40,light rain,moderate
+4,34,42,light intensity drizzle,moderate
+0,30,30,clear sky,moderate
+1,31,35,few clouds,moderate
+2,32,38,scattered clouds,moderate
+3,33,40,light rain,moderate
+4,34,42,light intensity drizzle,moderate
+0,30,30,clear sky,moderate
+1,31,35,few clouds,moderate
+2,32,38,scattered clouds,moderate
+3,33,40,light rain,moderate
+4,34,42,light intensity drizzle,moderate
+0,30,30,clear sky,moderate
+1,31,35,few clouds,moderate
+2,32,38,scattered clouds,moderate
+3,33,40,light rain,moderate
+4,34,42,light intensity drizzle,moderate
+0,30,30,clear sky,moderate
+1,31,35,few clouds,moderate
+2,32,38,scattered clouds,moderate
+3,33,40,light rain,moderate
+4,34,42,light intensity drizzle,moderate
+0,30,30,clear sky,moderate
+1,31,35,few clouds,moderate
+2,32,38,scattered clouds,moderate
+3,33,40,light rain,moderate
+4,34,42,light intensity drizzle,moderate
+0,30,30,clear sky,moderate
+1,31,35,few clouds,moderate
+2,32,38,scattered clouds,moderate
+3,33,40,light rain,moderate
+4,34,42,light intensity drizzle,moderate
+0,30,30,clear sky,moderate
+1,31,35,few clouds,moderate
+2,32,38,scattered clouds,moderate
+3,33,40,light rain,moderate
+4,34,42,light intensity drizzle,moderate
+0,30,30,clear sky,moderate
+1,31,35,few clouds,moderate
+2,32,38,scattered clouds,moderate
+3,33,40,light rain,moderate
+4,34,42,light intensity drizzle,moderate
+0,30,30,clear sky,moderate
+1,31,35,few clouds,moderate
+2,32,38,scattered clouds,moderate
+3,33,40,light rain,moderate
+4,34,42,light intensity drizzle,moderate
+0,30,30,clear sky,moderate
+1,31,35,few clouds,moderate
+2,32,38,scattered clouds,moderate
+3,33,40,light rain,moderate
+4,34,42,light intensity drizzle,moderate
+0,30,30,clear sky,moderate
+1,31,35,few clouds,moderate
+2,32,38,scattered clouds,moderate
+3,33,40,light rain,moderate
+4,34,42,light intensity drizzle,moderate
+0,30,30,clear sky,moderate
+1,31,35,few clouds,moderate
+2,32,38,scattered clouds,moderate
+3,33,40,light rain,moderate
+4,34,42,light intensity drizzle,moderate
+0,30,30,clear sky,moderate
+1,31,35,few clouds,moderate
+2,32,38,scattered clouds,moderate
+3,33,40,light rain,moderate
+4,34,42,light intensity drizzle,moderate
+0,30,30,clear sky,moderate
+1,31,35,few clouds,moderate
+2,32,38,scattered clouds,moderate
+3,33,40,light rain,moderate
+4,34,42,light intensity drizzle,moderate
+0,30,30,clear sky,moderate
+1,31,35,few clouds,moderate
+2,32,38,scattered clouds,moderate
+3,33,40,light rain,moderate
+4,34,42,light intensity drizzle,moderate
+0,30,30,clear sky,moderate
+1,31,35,few clouds,moderate
+2,32,38,scattered clouds,moderate
+3,33,40,light rain,moderate
+4,34,42,light intensity drizzle,moderate
+0,30,30,clear sky,moderate
+1,31,35,few clouds,moderate
+2,32,38,scattered clouds,moderate
+3,33,40,light rain,moderate
+4,34,42,light intensity drizzle,moderate
+0,30,30,clear sky,moderate
+1,31,35,few clouds,moderate
+2,32,38,scattered clouds,moderate
+3,33,40,light rain,moderate
+4,34,42,light intensity drizzle,moderate
+0,30,30,clear sky,moderate
+1,31,35,few clouds,moderate
+2,32,38,scattered clouds,moderate
+3,33,40,light rain,moderate
+4,34,42,light intensity drizzle,moderate
+0,30,30,clear sky,moderate
+1,31,35,few clouds,moderate
+2,32,38,scattered clouds,moderate
+3,33,40,light rain,moderate
+4,34,42,light intensity drizzle,moderate
+0,30,30,clear sky,moderate
+1,31,35,few clouds,moderate
+2,32,38,scattered clouds,moderate
+3,33,40,light rain,moderate
+4,34,42,light intensity drizzle,moderate
+0,30,30,clear sky,moderate
+1,31,35,few clouds,moderate
+2,32,38,scattered clouds,moderate
+3,33,40,light rain,moderate
+4,34,42,light intensity drizzle,moderate
+0,30,30,clear sky,moderate
+1,31,35,few clouds,moderate
+2,32,38,scattered clouds,moderate
+3,33,40,light rain,moderate
+4,34,42,light intensity drizzle,moderate
+0,39,30,haze,low
+1,40,35,haze,low
+2,41,38,haze,low
+3,42,40,haze,low
+4,43,42,haze,low
+0,39,30,haze,low
+1,40,35,haze,low
+2,41,38,haze,low
+3,42,40,haze,low
+4,43,42,haze,low
+0,39,30,haze,low
+1,40,35,haze,low
+2,41,38,haze,low
+3,42,40,haze,low
+4,43,42,haze,low
+0,39,30,haze,low
+1,40,35,haze,low
+2,41,38,haze,low
+3,42,40,haze,low
+4,43,42,haze,low
+0,39,30,haze,low
+1,40,35,haze,low
+2,41,38,haze,low
+3,42,40,haze,low
+4,43,42,haze,low
+0,39,30,haze,low
+1,40,35,haze,low
+2,41,38,haze,low
+3,42,40,haze,low
+4,43,42,haze,low
+0,39,30,haze,low
+1,40,35,haze,low
+2,41,38,haze,low
+3,42,40,haze,low
+4,43,42,haze,low
+0,39,30,haze,low
+1,40,35,haze,low
+4,43,42,haze,low
+0,39,30,haze,low
+1,40,35,haze,low
+2,41,38,haze,low
+3,42,40,haze,low
+4,43,42,haze,low
+0,39,30,haze,low
+1,40,35,haze,low
+2,41,38,haze,low
+3,42,40,haze,low
+4,43,42,haze,low
+0,39,30,haze,low
+1,40,35,haze,low
+2,41,38,haze,low
+3,42,40,haze,low
+4,43,42,haze,low
+0,30,40,broken clouds,high
+1,35,45,clear,high
+2,20,50,clear sky,high
+3,25,55,clouds,high
+4,28,60,drizzle,high
+0,32,40,drizzle rain,high
+1,30,45,dust,high
+2,35,50,extreme rain,high
+3,25,55,few clouds,high
+4,30,60,fog,high
+0,38,40,freezing rain,high
+1,28,45,haze,high
+2,33,50,heavy intensity drizzle,high
+3,20,55,heavy intensity drizzle rain,high
+4,28,60,heavy intensity rain,high
+0,32,40,heavy intensity shower rain,high
+1,30,45,heavy shower rain and drizzle,high
+2,35,50,heavy thunderstorm,high
+3,25,55,light intensity drizzle,high
+4,30,60,light intensity drizzle rain,high
+0,38,40,light intensity shower rain,high
+1,28,45,light rain,high
+2,33,50,light thunderstorm,high
+3,20,55,mist,high
+4,28,60,moderate rain,high
+0,32,40,overcast clouds,high
+1,30,45,ragged shower rain,high
+2,35,50,ragged thunderstorm,high
+3,25,55,sand,high
+4,30,60,scattered clouds,high
+0,38,40,shower drizzle,high
+1,28,45,shower rain,high
+2,33,50,shower rain and drizzle,high
+3,20,55,smoke,high
+4,28,60,thunderstorm,high
+0,32,40,thunderstorm with drizzle,high
+0,38,40,thunderstorm with rain,high
+1,28,45,thunderstorm with heavy drizzle,high
+2,33,50,thunderstorm with heavy rain,high
+3,20,55,thunderstorm with light drizzle,high
+4,28,60,thunderstorm with light rain,high
+0,32,40,thunderstorm with rain,high
+1,30,45,thunderstorm with heavy drizzle,high
+2,35,50,thunderstorm with heavy rain,high
+3,25,55,thunderstorm with light drizzle,high
+4,30,60,thunderstorm with light rain,high
+0,38,40,thunderstorm with rain,high
+1,28,45,thunderstorm with heavy drizzle,high
+2,33,50,thunderstorm with heavy rain,high
+3,20,55,thunderstorm with light drizzle,high
+4,28,60,thunderstorm with light rain,high
+0,32,40,thunderstorm with rain,high
+1,30,45,thunderstorm with heavy drizzle,high
+2,35,50,thunderstorm with heavy rain,high
+3,25,55,thunderstorm with light drizzle,high
+4,30,60,thunderstorm with light rain,high
+0,38,40,thunderstorm with rain,high
+1,28,45,thunderstorm with heavy drizzle,high
+2,33,50,thunderstorm with heavy rain,high
+3,20,55,thunderstorm with light drizzle,high
+4,28,60,thunderstorm with light rain,high
+0,32,40,thunderstorm with rain,high
+1,30,45,thunderstorm with heavy drizzle,high
+2,35,50,thunderstorm with heavy rain,high
+3,25,55,thunderstorm with light drizzle,high
+4,30,60,thunderstorm with light rain,high
+0,38,40,thunderstorm with rain,high
+1,28,45,thunderstorm with heavy drizzle,high
+2,33,50,thunderstorm with heavy rain,high
+3,20,55,thunderstorm with light drizzle,high
+4,28,60,thunderstorm with light rain,high
+0,32,40,thunderstorm with rain,high
+1,30,45,thunderstorm with heavy drizzle,high
+2,35,50,thunderstorm with heavy rain,high
+3,25,55,thunderstorm with light drizzle,high
+4,30,60,thunderstorm with light rain,high
+0,38,40,thunderstorm with rain,high
+1,28,45,thunderstorm with heavy drizzle,high
+2,33,50,thunderstorm with heavy rain,high
+3,20,55,thunderstorm with light drizzle,high
+4,28,60,thunderstorm with light rain,high
+0,39,30,haze,low
+1,40,35,haze,low
+2,41,38,haze,low
+3,42,40,haze,low
+4,43,42,haze,low
+0,39,30,haze,low
+1,40,35,haze,low
+2,41,38,haze,low
+3,42,40,haze,low
+4,43,42,haze,low
+0,39,30,haze,low
+1,40,35,haze,low
+2,41,38,haze,low
+3,42,40,haze,low
+4,43,42,haze,low
+0,39,30,haze,low
+1,40,35,haze,low
+2,41,38,haze,low
+3,42,40,haze,low
+4,43,42,haze,low
+0,39,30,haze,low
+1,40,35,haze,low
+2,41,38,haze,low
+3,42,40,haze,low
+4,43,42,haze,low
+0,39,30,haze,low
+1,40,35,haze,low
+2,41,38,haze,low
+3,42,40,haze,low
+4,43,42,haze,low
+1,32,45,clear,high
+2,33,47,few clouds,high
+3,34,46,scattered clouds,high
+4,35,48,clear sky,high
+5,36,50,light rain,high
+6,38,52,haze,low
+0,37,49,few clouds,low
+1,34,39,dust,low
+2,32,38,few clouds,low
+3,30,37,clouds,low
+4,29,36,light rain,low
+5,31,35,haze,low
+6,33,34,drizzle,low
+0,35,33,fog,low
+1,37,32,mist,low
+2,39,31,clear sky,low
+3,40,30,overcast clouds,low
+4,38,29,few clouds,low
+5,36,28,clouds,low
+6,34,27,light rain,low
+0,32,26,haze,low
+1,30,25,scattered clouds,low
+2,29,24,dust,low
+3,31,23,clear,low
+4,33,22,drizzle rain,low
+5,35,21,few clouds,low
+6,37,20,clouds,low
+0,39,19,overcast clouds,low
+1,40,18,haze,low
+2,38,17,light rain,low
+3,36,16,clear sky,low
+4,34,15,scattered clouds,low
+5,32,14,dust,low
+6,30,13,few clouds,low
+0,29,12,clouds,low
+1,31,11,overcast clouds,low
+2,33,10,haze,low
+3,35,9,light rain,low
+4,37,8,clear sky,low
+5,39,7,scattered clouds,low
+6,40,6,few clouds,low
+0,38,5,clouds,low
+1,36,4,overcast clouds,low
+2,34,3,haze,low
+3,32,2,light rain,low
+4,30,1,clear sky,low
+5,29,0,scattered clouds,low
+6,31,0,few clouds,low
+0,33,1,clouds,low
+1,35,2,overcast clouds,low
+2,37,3,haze,low
+3,39,4,light rain,low
+4,40,5,clear sky,low
+5,38,6,scattered clouds,low
+6,36,7,few clouds,low
+0,34,8,clouds,low
+1,32,9,overcast clouds,low
+2,30,10,haze,low
+3,29,11,light rain,low
+4,31,12,clear sky,low
+5,33,13,scattered clouds,low
+6,35,14,few clouds,low
+0,37,15,clouds,low
+1,39,16,overcast clouds,low
+2,40,17,haze,low
+3,38,18,light rain,low
+4,36,19,clear sky,low
+5,34,20,scattered clouds,low
+6,32,21,few clouds,low
+0,30,22,clouds,low
+1,29,23,overcast clouds,low
+2,31,24,haze,low
+3,33,25,light rain,low
+4,35,26,clear sky,low
+5,37,27,scattered clouds,low
+6,39,28,few clouds,low
+0,40,29,clouds,low
+1,38,30,overcast clouds,low
+2,36,31,haze,low
+3,34,32,light rain,low
+4,32,33,clear sky,low
+5,30,34,scattered clouds,low
+6,29,35,few clouds,low
+0,31,36,clouds,low
+1,33,37,overcast clouds,low
+2,35,38,haze,low
+3,37,39,light rain,low
+4,39,40,clear sky,low
+5,40,41,scattered clouds,low
+6,38,42,few clouds,low
+0,36,43,clouds,low
+1,34,44,overcast clouds,low
+0,28,45,clear,low
+1,29,47,few clouds,low
+2,30,46,scattered clouds,low
+3,31,48,clear sky,low
+4,32,50,light rain,low
+0,33,52,haze,low
+1,35,53,few clouds,low
+2,36,54,clear,low
+3,37,55,clouds,low
+4,38,56,overcast clouds,low
+5,39,57,haze,low
+6,40,58,light rain,low
+0,38,59,clear sky,low
+1,37,60,scattered clouds,low
+2,35,61,few clouds,low
+3,33,62,clouds,low
+4,32,63,light rain,low
+5,30,64,haze,low
+6,29,65,few clouds,low
+0,31,66,clear,low
+1,33,67,scattered clouds,low
+2,35,68,clear sky,low
+3,37,69,few clouds,low
+4,39,70,clouds,low
+5,40,71,overcast clouds,low
+6,38,72,haze,low
+0,36,73,light rain,low
+1,34,74,clear sky,low
+2,32,75,scattered clouds,low
+3,30,76,few clouds,low
+4,29,77,clouds,low
+5,31,78,haze,low
+6,33,79,light rain,low
+0,35,80,clear,low
+1,37,81,scattered clouds,low
+2,39,82,clear sky,low
+3,40,83,few clouds,low
+4,38,84,clouds,low
+5,36,85,haze,low
+6,34,86,light rain,low
+0,32,87,clear sky,low
+1,30,88,scattered clouds,low
+2,29,89,few clouds,low
+3,31,90,clouds,low
+4,33,91,haze,low
+5,35,92,light rain,low
+6,37,93,clear sky,low
+0,39,94,scattered clouds,low
+1,40,95,few clouds,low
+2,38,96,clouds,low
+3,36,97,haze,low
+4,34,98,light rain,low
+5,32,99,clear sky,low
+6,30,100,scattered clouds,low
+0,29,99,few clouds,low
+1,31,98,clouds,low
+2,33,97,haze,low
+3,35,96,light rain,low
+4,37,95,clear sky,low
+5,39,94,scattered clouds,low
+6,40,93,few clouds,low
+0,38,92,clouds,low
+1,36,91,haze,low
+2,34,90,light rain,low
+3,32,89,clear sky,low
+4,30,88,scattered clouds,low
+5,29,87,few clouds,low
+6,31,86,clouds,low
+0,33,85,haze,low
+1,35,84,light rain,low
+2,37,83,clear sky,low
+3,39,82,scattered clouds,low
+4,40,81,few clouds,low
+5,38,80,clouds,low
+6,36,79,haze,low
+0,34,78,light rain,low
+1,32,77,clear sky,low
+2,30,76,scattered clouds,low
+3,29,75,few clouds,low
+4,31,74,clouds,low
+5,33,73,haze,low
+6,35,72,light rain,low
+0,37,71,clear sky,low
+1,39,70,scattered clouds,low
+2,40,69,few clouds,low
+3,38,68,clouds,low
+4,36,67,haze,low
+5,34,66,light rain,low
+6,32,65,clear sky,low
+0,30,64,scattered clouds,low
+1,29,63,few clouds,low
+2,31,62,clouds,low
+3,33,61,haze,low
+4,35,60,light rain,low
+5,37,59,clear sky,low
+6,39,58,scattered clouds,low
+0,40,57,few clouds,low
+1,38,56,clouds,low
+2,36,55,haze,low
+3,34,54,light rain,low
+4,32,53,clear sky,low
+5,30,52,scattered clouds,low
+6,29,51,few clouds,low
+0,31,50,clouds,low
+1,33,49,haze,low
+2,35,48,light rain,low
+3,37,47,clear sky,low
+4,39,46,scattered clouds,low
+5,40,45,few clouds,low
+6,38,44,clouds,low
+0,36,43,haze,low
+1,34,42,light rain,low
+2,32,41,clear sky,low
+3,30,40,scattered clouds,low
+4,29,39,few clouds,low
+5,31,38,clouds,low
+6,33,37,haze,low
+0,35,36,light rain,low
+1,37,35,clear sky,low
+2,29,89,few clouds,moderate
+3,31,90,clouds,moderate
+4,33,91,haze,moderate
+5,35,92,light rain,moderate
+6,37,93,clear sky,moderate
+0,39,94,scattered clouds,moderate
+1,40,95,few clouds,moderate
+2,38,96,clouds,moderate
+3,36,97,haze,moderate
+4,34,98,light rain,moderate
+5,32,99,clear sky,moderate
+6,30,100,scattered clouds,moderate
+0,29,99,few clouds,moderate
+1,31,98,clouds,moderate
+2,33,97,haze,moderate
+3,35,96,light rain,moderate
+4,37,95,clear sky,moderate
+5,39,94,scattered clouds,moderate
+6,40,93,few clouds,moderate
+0,38,92,clouds,moderate
+1,36,91,haze,moderate
+2,34,90,light rain,moderate
+3,32,89,clear sky,moderate
+4,30,88,scattered clouds,moderate
+5,29,87,few clouds,moderate
+6,31,86,clouds,moderate
+0,33,85,haze,moderate
+1,35,84,light rain,moderate
+2,37,83,clear sky,moderate
+5,32,65,thunderstorm with heavy rain,high
+6,30,70,thunderstorm with light drizzle,high
+0,33,75,thunderstorm with light rain,high
+1,38,80,thunderstorm with rain,high
+2,40,45,heavy intensity drizzle rain,high
+3,39,40,heavy intensity rain,high
+4,36,35,heavy intensity shower rain,high
+5,34,30,heavy shower rain and drizzle,high
+6,30,25,heavy thunderstorm,high
+0,28,20,freezing rain,high
+1,30,45,heavy intensity drizzle,high
+2,25,50,thunderstorm,high
+3,20,55,thunderstorm with drizzle,high
+5,28,40,haze,low
