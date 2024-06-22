@@ -1,0 +1,26 @@
+{% extends "base2.html" %}
+
+{% block title %}Vendor Login{% endblock %}
+
+{% block content %}
+     
+<div class="item item-1" >
+    <div class="img-fill">
+        <div class="text-content" style="padding-left: 10%;">  
+            
+        <h1 style="color: white;">SALES PREDICTION : <span class="text-light">{{todays_sales_prediction}}</span></h1>
+            
+            <br>
+            
+            {%csrf_token%}
+            <p style="font-size: 25px;"><span class="bg-light text-dark">Temperature : {{todays_temperature}}</span></p>
+            <p style="font-size: 25px;"><span class="bg-light text-dark">Date : {{todays_date}}</span></p>
+            <p style="font-size: 25px;"><span class="bg-light text-dark">Day : {{day_of_the_week}}</span></p>
+            <p style="font-size: 25px;"><span class="bg-light text-dark">Humidity : {{todays_humidity}}%</span></p>
+            <p style="font-size: 25px;"><span class="bg-light text-dark">Weather Description : {{weather_description}}</span></p>
+        
+        </div>
+        
+    </div>           
+</div>
+{% endblock %}
